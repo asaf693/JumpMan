@@ -28,7 +28,9 @@ Pepse demonstrates core game-development concepts in Java:
 ## Requirements
 
 - Java 11 or newer  
-- External Library: `DanoGameLab.jar` (add to your IDE’s classpath)
+- **External Library**: `DanoGameLab.jar`  
+  - Obtain from an official source  
+  - Add to your IDE’s classpath
 
 ---
 
@@ -42,7 +44,7 @@ Pepse demonstrates core game-development concepts in Java:
 
 ## How to Play
 
-1. Open the project in IntelliJ IDEA (or your IDE).  
+1. Open the project in your IDE.  
 2. Add `DanoGameLab.jar` to the classpath.  
 3. Run `PepseGameManager.java`.  
 4. Explore the world, jump, collect fruit, and watch the day turn to night!
@@ -78,7 +80,6 @@ Pepse demonstrates core game-development concepts in Java:
     └─ jump_*.png     # Jumping animations
 
     README.md         # This file
-    LICENSE           # (if included)
 
 ---
 
@@ -92,4 +93,3 @@ MIT License – see LICENSE for details.
 
 - **DanoGameLab.jar**: Core game framework  
 - **Sprite Assets**: Created for academic use  
-- Inspired by Java game exercises at Hebrew University of Jerusalem  
